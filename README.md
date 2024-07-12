@@ -45,4 +45,3 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
   
 5) Exit the program: **"Finally sleep"**: This command will exit the program gracefully.
 
-19. 
