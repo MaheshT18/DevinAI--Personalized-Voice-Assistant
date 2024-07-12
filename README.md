@@ -1,26 +1,7 @@
 # DevinAI- Personalized Voice Assistant
 Welcome to DevinAI! This is your all-in-one voice assistant, built with Python to make your life easier and more productive. Whether you need to search the web, open apps, play your favorite tunes, or send messages, DevinAI is here to help. By using powerful Python libraries, DevinAI brings you an intuitive and efficient user experience.
 
-![image](https://github.com/user-attachments/assets/42a2692f-1cf2-436e-840c-6053364cdf86)   
-
-![image](https://github.com/user-attachments/assets/0efba721-e3c2-442a-a113-11bf86365b21)
-
-![image](https://github.com/user-attachments/assets/d30bc6bb-21f8-4a2b-919b-a8c7b774206c)
-
-![image](https://github.com/user-attachments/assets/0e8fde65-adb2-432b-988f-e31a034b7c8f)
-
-![image](https://github.com/user-attachments/assets/55553edd-8510-4c4d-8a0c-b3ffa58ac958)
-
-![image](https://github.com/user-attachments/assets/67f3a605-4b16-4ac8-834a-3829f7ee7618)
-
-
-
-
-
-
-
-
-## 📄 What DevinAI Can Do
+## 🛠️ What DevinAI Can Do
 1) **Voice Commands**: Just say the word and DevinAI will take care of the rest.
 2) **Web Search**: Need to look something up? DevinAI will search Google for you.
 3) **App Launcher**: Open apps like Chrome or Notepad with a simple command.
@@ -33,8 +14,21 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
 10) **Custom Responses**: Make DevinAI's responses suit your style.
 11) **Easy to Extend**: Add new features easily with a modular codebase.
 
+## Images Related to Performing Tasks 📸
+![image](https://github.com/user-attachments/assets/42a2692f-1cf2-436e-840c-6053364cdf86)   
+
+![image](https://github.com/user-attachments/assets/0efba721-e3c2-442a-a113-11bf86365b21)
+
+![image](https://github.com/user-attachments/assets/d30bc6bb-21f8-4a2b-919b-a8c7b774206c)
+
+![image](https://github.com/user-attachments/assets/0e8fde65-adb2-432b-988f-e31a034b7c8f)
+
+![image](https://github.com/user-attachments/assets/55553edd-8510-4c4d-8a0c-b3ffa58ac958)
+
+![image](https://github.com/user-attachments/assets/67f3a605-4b16-4ac8-834a-3829f7ee7618)
+
     
-## How to Use DevinAI
+## 🚀 How to Use DevinAI
 1) Take the project: Make sure you have cloned the repository and set up your environment.
 
 2) Run the main script: python **"Devin_main.py"**
@@ -45,7 +39,7 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
   
 5) Exit the program: **"Finally sleep"**: This command will exit the program gracefully.
 
-## Technologies Used 
+## 🔧 Technologies Used 
 1. **Python**: The core programming language used for development
 2. **pyttsx3**: A Python library that converts text to speech.
 3. **SpeechRecognition**: A Python module that converts speech to text.
