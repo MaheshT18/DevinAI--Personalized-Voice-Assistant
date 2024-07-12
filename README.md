@@ -3,7 +3,6 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
 
 ![image](https://github.com/user-attachments/assets/42a2692f-1cf2-436e-840c-6053364cdf86)   
 
-![image](https://github.com/user-attachments/assets/83521691-1d2f-45fb-a0e0-b5e772a019fd)
 
 ![image](https://github.com/user-attachments/assets/814f39ac-5c04-4abe-b3f3-482ec7117e83)
 
