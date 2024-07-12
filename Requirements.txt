@@ -1,0 +1,22 @@
+
+# DevinAI Project Dependencies
+# This file lists all Python libraries required to run the DevinAI project.
+
+# open command prompt / terminal & pip install " libraries"
+
+1. pyttsx3
+2. SpeechRecognition
+3. pywhatkit
+4. datetime
+5. wikipedia
+6. pyjokes
+7. webbrowser
+8. pyautogui
+9. os-sys
+10. requests
+11. beautifulsoup4
+12. time
+13. random
+14. json
+15. googletrans==4.0.0-rc1
+16. pyinstaller
