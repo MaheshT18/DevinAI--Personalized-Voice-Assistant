@@ -37,7 +37,7 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
 # How to Use DevinAI
 1) Take the project: Make sure you have cloned the repository and set up your environment.
 
-2) Run the main script: python Devin_main.py
+2) Run the main script: python **"Devin_main.py"**
 
 3) Enter the password: When prompted, enter the password **'DevinAI'** to start using the assistant . You can change this password in the code if needed.
 
