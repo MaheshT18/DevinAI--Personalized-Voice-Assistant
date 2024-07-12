@@ -14,6 +14,18 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
 10) **Custom Responses**: Make DevinAI's responses suit your style.
 11) **Easy to Extend**: Add new features easily with a modular codebase.
 
+    
+# How to Use DevinAI
+1) Take the project: Make sure you have cloned the repository and set up your environment.
+
+2) Run the main script: python **"Devin_main.py"**
+
+3) Enter the password: When prompted, enter the password **'DevinAI'** to start using the assistant . You can change this password in the code if needed.
+
+4) Speak **"Wake Up"** to Start performing tasks.
+  
+5) Exit the program: **"Finally sleep"**: This command will exit the program gracefully.
+
 # Technologies Used
 1. **Python**: The core programming language used for development
 2. **pyttsx3**: A Python library that converts text to speech.
@@ -34,14 +46,4 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
 17. **googletrans**: A Python library that provides a simple interface to Google Translate API, allowing users to easily translate text from one language to another programmatically.
 18. **PyInstaller**: Converts Python scripts into standalone executables, making it easy to distribute Python applications to users who don't have Python installed.
 
-# How to Use DevinAI
-1) Take the project: Make sure you have cloned the repository and set up your environment.
-
-2) Run the main script: python **"Devin_main.py"**
-
-3) Enter the password: When prompted, enter the password **'DevinAI'** to start using the assistant . You can change this password in the code if needed.
-
-4) Speak **"Wake Up"** to Start performing tasks.
-  
-5) Exit the program: **"Finally sleep"**: This command will exit the program gracefully.
 
