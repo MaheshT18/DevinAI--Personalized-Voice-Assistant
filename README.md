@@ -1,7 +1,7 @@
-# DevinAI
+# DevinAI- Personalized Voice Assistant
 Welcome to DevinAI! This is your all-in-one voice assistant, built with Python to make your life easier and more productive. Whether you need to search the web, open apps, play your favorite tunes, or send messages, DevinAI is here to help. By using powerful Python libraries, DevinAI brings you an intuitive and efficient user experience.
 
-# What DevinAI Can Do
+## What DevinAI Can Do
 1) **Voice Commands**: Just say the word and DevinAI will take care of the rest.
 2) **Web Search**: Need to look something up? DevinAI will search Google for you.
 3) **App Launcher**: Open apps like Chrome or Notepad with a simple command.
@@ -15,7 +15,7 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
 11) **Easy to Extend**: Add new features easily with a modular codebase.
 
     
-# How to Use DevinAI
+## How to Use DevinAI
 1) Take the project: Make sure you have cloned the repository and set up your environment.
 
 2) Run the main script: python **"Devin_main.py"**
@@ -26,7 +26,7 @@ Welcome to DevinAI! This is your all-in-one voice assistant, built with Python t
   
 5) Exit the program: **"Finally sleep"**: This command will exit the program gracefully.
 
-# Technologies Used
+## Technologies Used
 1. **Python**: The core programming language used for development
 2. **pyttsx3**: A Python library that converts text to speech.
 3. **SpeechRecognition**: A Python module that converts speech to text.
