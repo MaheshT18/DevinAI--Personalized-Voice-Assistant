@@ -1,6 +1,8 @@
 # DevinAI- Personalized Voice Assistant
 Welcome to DevinAI! This is your all-in-one voice assistant, built with Python to make your life easier and more productive. Whether you need to search the web, open apps, play your favorite tunes, or send messages, DevinAI is here to help. By using powerful Python libraries, DevinAI brings you an intuitive and efficient user experience.
 
+![image alt] (https://github.com/MaheshT18/DevinAI--Personalized-Voice-Assistant/blob/e9a8ec3909ec2f0669399a6e8afc4d7bbbc2241c/DevinAI%20sample%20images/password.jpg)
+
 ## What DevinAI Can Do
 1) **Voice Commands**: Just say the word and DevinAI will take care of the rest.
 2) **Web Search**: Need to look something up? DevinAI will search Google for you.
